@@ -1,5 +1,5 @@
 {
-    "name": "vendor/logger",
+    "name": "me/logger",
     "description": "File and email logger.",
     "type": "library",
     "license": "MIT",
