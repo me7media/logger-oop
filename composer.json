@@ -1,18 +1,19 @@
 {
     "name": "me/logger",
-    "description": "File and email logger.",
+    "description": "File and email logger",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "ME",
+            "name": "ME Media",
             "email": "me.media.dev@gmail.com"
         }
     ],
-    "autoload": {
-      "psr-4": {
-        "Vendor\\Logger\\": "src"
-      }
-    },
+  "autoload": {
+    "psr-4": {
+      "Vendor\\Logger\\": "src"
+    }
+  },
+    "minimum-stability": "stable",
     "require": {}
 }
