@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\Logger;
+namespace Vendor\Me\Logger;
 
 use Vendor\Logger\Base\LoggerInterface;
 
