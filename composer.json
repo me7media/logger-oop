@@ -11,7 +11,7 @@
     ],
   "autoload": {
     "psr-4": {
-      "Vendor\\Me\\Logger\\": "src"
+      "Me\\Logger\\": "src"
     }
   },
     "require": {}
