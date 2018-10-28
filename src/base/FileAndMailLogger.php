@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\Me\Logger\Base;
+namespace Me\Logger\Base;
 
 
 class FileAndMailLogger extends AbstractFileAndMailLogger implements LoggerInterface

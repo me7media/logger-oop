@@ -1,8 +1,8 @@
 <?php
 
-namespace Vendor\Me\Logger;
+namespace Me\Logger;
 
-use Vendor\Logger\Base\LoggerInterface;
+use Me\Logger\Base\LoggerInterface;
 
 class Logger
 {

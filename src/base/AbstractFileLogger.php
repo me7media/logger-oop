@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Vendor\Me\Logger\Base;
+namespace Me\Logger\Base;
 
 
     abstract class AbstractFileLogger
